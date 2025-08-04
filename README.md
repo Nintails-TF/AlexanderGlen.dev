@@ -1,2 +1,2 @@
 # AlexanderGlen.dev
-My website portfolio.
+Personal portfolio showcasing security projects and technical writeups
